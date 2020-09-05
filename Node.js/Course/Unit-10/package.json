@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "log4js": "^3.0.2",
-    "winston": "^3.0.0"
+    "winston": "^3.3.3"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.6",
